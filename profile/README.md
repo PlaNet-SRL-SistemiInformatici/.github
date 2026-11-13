@@ -1,4 +1,4 @@
-<img align="right" align="right" src="https://www.planetweb.it/templates/g5_hydrogen/custom/images/logo-trasp-planet.png" width="140" alt="PlaNet Sistemi Informatici">
+<img align="right" align="right" src="https://www.planetweb.it/templates/g5_hydrogen/custom/images/logo-trasp-planet.png" width="135" alt="PlaNet Sistemi Informatici">
 
 </br>
 
